@@ -49,14 +49,11 @@ open index.html                            # macOS
 🗒 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-📬 Contact
-Gaurav Sharma
-
-LinkedIn
-
-GitHub
-
-Project Link: MunchTime
+## 📬 Contact
+**Gaurav Sharma**  
+- [LinkedIn](https://www.linkedin.com/in/gaurav-sharma-7b311226b/)  
+- [GitHub](https://github.com/gauravs1225)  
+- [Project Link: MunchTime](https://github.com/gauravs1225/MunchTime.git)
 
 
 ---
