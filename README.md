@@ -52,11 +52,11 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 📬 Contact
 Gaurav Sharma
 
-LinkedIn : https://www.linkedin.com/in/gaurav-sharma-7b311226b/
+LinkedIn
 
-GitHub  :  https://github.com/gauravs1225
+GitHub
 
-Project Link: https://github.com/gauravs1225/MunchTime.git
+Project Link: MunchTime
 
 
 ---
